@@ -1,0 +1,2 @@
+This is under "trialBranch" repository on git. This folder is created for learning branching in Git.
+So theres can be some messed up file.
