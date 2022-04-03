@@ -1,3 +1,7 @@
 There is nothing to change. This is from trialBrank which is made by git.
 
+<<<<<<< HEAD
 This change is made in master branch
+=======
+This change is made in hiChanger branch
+>>>>>>> hiChanger
